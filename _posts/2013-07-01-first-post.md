@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "title"
-date: 2013-07-01
-category : blog
-tags : []
+title: "first post"
+description: ""
+category: 
+tags: []
 ---
+{% include JB/setup %}
 
-this is a test
+hello. this is a first post.
